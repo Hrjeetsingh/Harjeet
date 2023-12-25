@@ -33,7 +33,7 @@ I am a Assistant Professor NIT kurukshetra🇮🇳[NITKKR](https://nitkkr.ac.in.
 
 ### I post actively on ...
 
-<a href="https://www.linkedin.com/in/hrjeetsingh/" title="hrjeetsingh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hrjeet-singh-50362b1b9/" title="hrjeetsingh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/hrjeet0987/" title="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
 
 ### You can also find me on ...
