@@ -1,6 +1,6 @@
-## Hello👋 I'm Harjeet 👩🏻‍💻
+## Hello👋 I'm Harjeet 🥷
 
-I am a Assistant Professor NIT kurukshetra🇮🇳[NITKKR](https://nitkkr.ac.in./)
+I am a Assistant Professor LIET 🇮🇳[LLOYDCOLLEGE](https://lloydcollege.in./)
 
 ### Currently I am working with ...
 
