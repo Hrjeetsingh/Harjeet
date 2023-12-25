@@ -30,7 +30,7 @@ I am a Assistant Professor NIT kurukshetra🇮🇳[NITKKR](https://nitkkr.ac.in.
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-
+<a href="" title="Nmap" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/sitelogo-nmap.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 ### I post actively on ...
 
 <a href="https://www.linkedin.com/in/hrjeet-singh-50362b1b9/" title="hrjeetsingh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -39,17 +39,16 @@ I am a Assistant Professor NIT kurukshetra🇮🇳[NITKKR](https://nitkkr.ac.in.
 ### You can also find me on ...
 
 <a href="https://www.instagram.com/hrjeet0987/" title="hrjeet singh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/singh_hrjeet" target="_blank" title="@singh" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/@singh_hrjeet" target="_blank" title="@singh" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:hrjeet0987@gmail.com" target="_blank" title="hrjeet0987@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 
 # 
 
 <!-- <a href="https://www.buymeacoffee.com/vershwal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
-<a href="https://www.buymeacoffee.com/princivershwal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
+
 
 <!--
-**vershwal/vershwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
